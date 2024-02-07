@@ -1,0 +1,15 @@
+{
+  "name": "NS_P",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+
+}
